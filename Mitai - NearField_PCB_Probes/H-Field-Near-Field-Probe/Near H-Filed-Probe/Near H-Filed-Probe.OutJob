@@ -15,9 +15,9 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=E-Field-Near-Field Probe.OutJob
+Name=Near H-Filed-Probe.OutJob
 Description=
-TargetOutputMedium=Assembly
+TargetOutputMedium=ODB++
 VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
@@ -37,12 +37,12 @@ OutputMedium5=Gerbers
 OutputMedium5_Type=GeneratedFiles
 OutputMedium6=Schematics
 OutputMedium6_Type=Publish
-OutputMedium7=Assembly
+OutputMedium7=ODB++
 OutputMedium7_Type=GeneratedFiles
 OutputType1=PCB 3D Print
 OutputName1=PCB 3D Print - Top
 OutputCategory1=Documentation
-OutputDocumentPath1=Near-E-Field-Probe.PcbDoc
+OutputDocumentPath1=Near-H-Field-Probe.PcbDoc
 OutputVariantName1=
 OutputEnabled1=0
 OutputEnabled1_OutputMedium1=0
@@ -59,7 +59,7 @@ Configuration1_Item1=Record=Pcb3DPrintView|ResX=150|ResY=150|ViewX=39533275|View
 OutputType2=PCB 3D Print
 OutputName2=PCB 3D Print - Bottom
 OutputCategory2=Documentation
-OutputDocumentPath2=Near-E-Field-Probe.PcbDoc
+OutputDocumentPath2=Near-H-Field-Probe.PcbDoc
 OutputVariantName2=
 OutputEnabled2=0
 OutputEnabled2_OutputMedium1=0
@@ -76,7 +76,7 @@ Configuration2_Item1=Record=Pcb3DPrintView|ResX=150|ResY=150|ViewX=39533275|View
 OutputType3=Assembly
 OutputName3=Assembly Drawings
 OutputCategory3=Assembly
-OutputDocumentPath3=Near-E-Field-Probe.PcbDoc
+OutputDocumentPath3=Near-H-Field-Probe.PcbDoc
 OutputVariantName3=
 OutputEnabled3=0
 OutputEnabled3_OutputMedium1=0
@@ -92,23 +92,23 @@ PcbPrintPreferences3=
 OutputType4=ODB
 OutputName4=ODB++ Files
 OutputCategory4=Fabrication
-OutputDocumentPath4=Near-E-Field-Probe.PcbDoc
+OutputDocumentPath4=Near-H-Field-Probe.PcbDoc
 OutputVariantName4=
-OutputEnabled4=0
+OutputEnabled4=1
 OutputEnabled4_OutputMedium1=0
 OutputEnabled4_OutputMedium2=0
 OutputEnabled4_OutputMedium3=1
 OutputEnabled4_OutputMedium4=0
 OutputEnabled4_OutputMedium5=0
 OutputEnabled4_OutputMedium6=0
-OutputEnabled4_OutputMedium7=0
+OutputEnabled4_OutputMedium7=1
 OutputDefault4=0
 Configuration4_Name1=OutputConfigurationParameter1
 Configuration4_Item1=Compression_None=True|Compression_tar_tgz=True|Compression_zip=True|DifferentFootprints=False|ExportPositivePlaneLayers=False|GenerateDRCRulesFile=False|IncludeUnconnectedMidLayerPads=False|MergeNetTieNets=False|ObjsInsideBoardOutlineOnly=False|ODBProfileLayer=-1000|ODBProfileLayerV7=-1|PlotBackDrillingPairs=False|PlotBlindViasPairs=False|PlotBottomLayerPlot=False|PlotBottomOverlayPlot=True|PlotBottomPastePlot=True|PlotBottomSolderPlot=True|PlotCounterHolesPairs=False|PlotDrillDrawingPairs=False|PlotDrillGuidePairs=False|PlotInternalPlane10Plot=False|PlotInternalPlane11Plot=False|PlotInternalPlane12Plot=False|PlotInternalPlane13Plot=False|PlotInternalPlane14Plot=False|PlotInternalPlane15Plot=False|PlotInternalPlane16Plot=False|PlotInternalPlane1Plot=False|PlotInternalPlane2Plot=False|PlotInternalPlane3Plot=False|PlotInternalPlane4Plot=False|PlotInternalPlane5Plot=False|PlotInternalPlane6Plot=False|PlotInternalPlane7Plot=False|PlotInternalPlane8Plot=False|PlotInternalPlane9Plot=False|PlotKeepOutLayerPlot=False|PlotMechanical10Plot=False|PlotMechanical11Plot=False|PlotMechanical12Plot=False|PlotMechanical13Plot=False|PlotMechanical14Plot=False|PlotMechanical15Plot=False|PlotMechanical16Plot=False|PlotMechanical1Plot=False|PlotMechanical2Plot=False|PlotMechanical3Plot=False|PlotMechanical4Plot=False|PlotMechanical5Plot=False|PlotMechanical6Plot=False|PlotMechanical7Plot=False|PlotMechanical8Plot=False|PlotMechanical9Plot=False|PlotMicroViasPairs=False|PlotMidLayer10Plot=False|PlotMidLayer11Plot=False|PlotMidLayer12Plot=False|PlotMidLayer13Plot=False|PlotMidLayer14Plot=False|PlotMidLayer15Plot=False|PlotMidLayer16Plot=False|PlotMidLayer17Plot=False|PlotMidLayer18Plot=False|PlotMidLayer19Plot=False|PlotMidLayer1Plot=False|PlotMidLayer20Plot=False|PlotMidLayer21Plot=False|PlotMidLayer22Plot=False|PlotMidLayer23Plot=False|PlotMidLayer24Plot=False|PlotMidLayer25Plot=False|PlotMidLayer26Plot=False|PlotMidLayer27Plot=False|PlotMidLayer28Plot=False|PlotMidLayer29Plot=False|PlotMidLayer2Plot=False|PlotMidLayer30Plot=False|PlotMidLayer3Plot=False|PlotMidLayer4Plot=False|PlotMidLayer5Plot=False|PlotMidLayer6Plot=False|PlotMidLayer7Plot=False|PlotMidLayer8Plot=False|PlotMidLayer9Plot=False|PlotNPTHPairs=False|PlotPTHPairs=False|PlotTopLayerPlot=False|PlotTopOverlayPlot=True|PlotTopPastePlot=True|PlotTopSolderPlot=True|PlotViaTypeDrillDrawingPairs=False|PlotViaTypeDrillGuidePairs=False|PlotViaTypeDrillPairs=False|Record=ODBView|ToolsByDrillSymbols=False|Units=Metric|DocumentPath=D:\Repositories\EE-PCB-Marketing\Mitai - NearField_PCB_Probes\E-Field-Near-Filed Probe\Near-E-Field-Probe.PcbDoc
 OutputType5=Gerber X2
 OutputName5=Gerber X2 Files
 OutputCategory5=Fabrication
-OutputDocumentPath5=Near-E-Field-Probe.PcbDoc
+OutputDocumentPath5=Near-H-Field-Probe.PcbDoc
 OutputVariantName5=
 OutputEnabled5=0
 OutputEnabled5_OutputMedium1=0
@@ -141,7 +141,7 @@ Configuration6_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowPr
 OutputType7=PCB 3D Print
 OutputName7=PCB 3D Rotated - Top
 OutputCategory7=Documentation
-OutputDocumentPath7=Near-E-Field-Probe.PcbDoc
+OutputDocumentPath7=Near-H-Field-Probe.PcbDoc
 OutputVariantName7=
 OutputEnabled7=0
 OutputEnabled7_OutputMedium1=0
@@ -158,7 +158,7 @@ Configuration7_Item1=Record=Pcb3DPrintView|ResX=150|ResY=150|ViewX=35260772|View
 OutputType8=PCB 3D Print
 OutputName8=PCB 3D Rotated - Bottom
 OutputCategory8=Documentation
-OutputDocumentPath8=Near-E-Field-Probe.PcbDoc
+OutputDocumentPath8=Near-H-Field-Probe.PcbDoc
 OutputVariantName8=
 OutputEnabled8=0
 OutputEnabled8_OutputMedium1=0
@@ -172,47 +172,6 @@ OutputDefault8=0
 PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 Configuration8_Name1=OutputConfigurationParameter1
 Configuration8_Item1=Record=Pcb3DPrintView|ResX=150|ResY=150|ViewX=35260772|ViewY=20322048|LookAtX=32601150|LookAtY=35626336|LookAtZ=-17500.330078125|UpX=-0.117165759205818|UpY=0.911116123199463|UpZ=-0.395145148038864|FOV=45|QuatX=-0.210702866315842|QuatY=0.247576892375946|QuatZ=0.00678627612069249|QuatW=0.945655286312103|Zoom=4.45821193853588E-5|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=True|ViewFromTop=True|ScreenWidth=1572|ScreenHeight=906|ImageOutputType=1|ViewConfig= |DocumentPath=D:\Repositories\EE-PCB-Marketing\Mitai - NearField_PCB_Probes\E-Field-Near-Filed Probe\Near-E-Field-Probe.PcbDoc
-OutputType9=Pick Place
-OutputName9=Generates pick and place files
-OutputCategory9=Assembly
-OutputDocumentPath9=Near-E-Field-Probe.PcbDoc
-OutputVariantName9=
-OutputEnabled9=1
-OutputEnabled9_OutputMedium1=0
-OutputEnabled9_OutputMedium2=0
-OutputEnabled9_OutputMedium3=0
-OutputEnabled9_OutputMedium4=0
-OutputEnabled9_OutputMedium5=0
-OutputEnabled9_OutputMedium6=0
-OutputEnabled9_OutputMedium7=1
-OutputDefault9=0
-Configuration9_Name1=OutputConfigurationParameter1
-Configuration9_Item1=Record=PickPlaceView|Units=Metric|GenerateCSVFormat=False|GenerateTextFormat=True|ShowUnits=False|Separator=.|ExcludeFilterParam=False|IncludeVariations=False|IncludeStandardNoBOM=True|Filter= |FilterActive=False|YFlip=False|DifferentFootprints=False|Column#1=Name:Designator,Fixed:True,Metric:False,Visible:True,Sort:None,Position:0|Column#2=Name:Comment,Fixed:True,Metric:False,Visible:True,Sort:None,Position:1|Column#3=Name:Layer,Fixed:True,Metric:False,Visible:True,Sort:None,Position:2|Column#4=Name:Footprint,Fixed:True,Metric:False,Visible:True,Sort:None,Position:3|Column#5=Name:Footprint Description,Fixed:True,Metric:False,Visible:False,Sort:None,Position:4|Column#6=Name:Center-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:5|Column#7=Name:Center-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:6|Column#8=Name:Rotation,Fixed:True,Metric:False,Visible:True,Sort:None,Position:7|Column#9=Name:Description,Fixed:True,Metric:False,Visible:True,Sort:None,Position:8|Column#10=Name:ComponentKind,Fixed:True,Metric:False,Visible:False,Sort:None,Position:9|Column#11=Name:Height,Fixed:True,Metric:True,Visible:False,Sort:None,Position:10|Column#12=Name:Ref-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:11|Column#13=Name:Ref-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:12|Column#14=Name:Pad-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:13|Column#15=Name:Pad-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:14|Column#16=Name:Variation,Fixed:True,Metric:False,Visible:False,Sort:None,Position:15|Column#17=Name:Purchase-URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:21,Type:0|Column#18=Name:SnapEDA_Link,Fixed:False,Metric:False,Visible:False,Sort:None,Position:22,Type:0|Column#19=Name:MF,Fixed:False,Metric:False,Visible:False,Sort:None,Position:18,Type:0|Column#20=Name:Check_prices,Fixed:False,Metric:False,Visible:False,Sort:None,Position:16,Type:0|Column#21=Name:Digi-Key_Part_Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:17,Type:0|Column#22=Name:MP,Fixed:False,Metric:False,Visible:False,Sort:None,Position:19,Type:0|Column#23=Name:Package,Fixed:False,Metric:False,Visible:False,Sort:None,Position:20,Type:0|Column#24=Name:Value,Fixed:False,Metric:False,Visible:False,Sort:None,Position:23,Type:0|DocumentPath=D:\Repositories\EE-PCB-Marketing\Mitai - NearField_PCB_Probes\E-Field-Near-Filed Probe\Near-E-Field-Probe.PcbDoc
-OutputType10=BOM_PartType
-OutputName10=Bill of Materials
-OutputCategory10=Report
-OutputDocumentPath10=NearField_E_Probe.SchDoc
-OutputVariantName10=
-OutputEnabled10=1
-OutputEnabled10_OutputMedium1=0
-OutputEnabled10_OutputMedium2=0
-OutputEnabled10_OutputMedium3=0
-OutputEnabled10_OutputMedium4=0
-OutputEnabled10_OutputMedium5=0
-OutputEnabled10_OutputMedium6=0
-OutputEnabled10_OutputMedium7=2
-OutputDefault10=0
-PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-Configuration10_Name1=ColumnNameFormat
-Configuration10_Item1=CaptionAsName
-Configuration10_Name2=General
-Configuration10_Item2=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=0|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=EUR|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|UseDirectApi=False|BomSetName=
-Configuration10_Name3=GroupOrder
-Configuration10_Item3=Comment=True|Footprint=True
-Configuration10_Name4=SortOrder
-Configuration10_Item4=Designator=Up|Comment=Up|Footprint=Up
-Configuration10_Name5=VisibleOrder
-Configuration10_Item5=Comment=120|Description=120|Designator=120|Footprint=120|LibRef=120|Quantity=120
 
 [PublishSettings]
 OutputFilePath2=D:\Repositories\EE-PCB-Marketing\Mitai - NearField_PCB_Probes\E-Field-Near-Filed Probe\Documents\E-Field-Near-Field Probe.PDF
@@ -257,7 +216,7 @@ OutputFileNameSpecial3=
 OpenOutput3=1
 OutputFilePath4=
 ReleaseManaged4=1
-OutputBasePath4=Project Outputs for E-Field-Near-Field Probe
+OutputBasePath4=Project Outputs for Free Documents
 OutputPathMedia4=
 OutputPathMediaValue4=
 OutputPathOutputer4=[Output Type]
@@ -332,11 +291,11 @@ ShowComponentParameters6=1
 GlobalBookmarks6=0
 PDFACompliance6=Disabled
 PDFVersion6=Default
-OutputFilePath7=D:\Repositories\EE-PCB-Marketing\Mitai - NearField_PCB_Probes\E-Field-Near-Filed Probe\Documents\Assembly\
+OutputFilePath7=D:\Repositories\EE-PCB-Marketing\Mitai - NearField_PCB_Probes\H-Field-Near-Field-Probe\Near H-Filed-Probe\Documents\
 ReleaseManaged7=0
 OutputBasePath7=Documents\
-OutputPathMedia7=Assembly
-OutputPathMediaValue7=Assembly
+OutputPathMedia7=
+OutputPathMediaValue7=
 OutputPathOutputer7=[Output Type]
 OutputPathOutputerPrefix7=
 OutputPathOutputerValue7=
@@ -373,7 +332,7 @@ OpenIPCOutput5=0
 EnableReload5=0
 RelativeOutputPath6=D:\Repositories\EE-PCB-Marketing\Mitai - NearField_PCB_Probes\E-Field-Near-Filed Probe\Documents\E-Field-Near-Field Probe.PDF
 OpenOutputs6=1
-RelativeOutputPath7=D:\Repositories\EE-PCB-Marketing\Mitai - NearField_PCB_Probes\E-Field-Near-Filed Probe\Documents\Assembly\
+RelativeOutputPath7=D:\Repositories\EE-PCB-Marketing\Mitai - NearField_PCB_Probes\H-Field-Near-Field-Probe\Near H-Filed-Probe\Documents\
 OpenOutputs7=1
 AddToProject7=1
 TimestampFolder7=0
