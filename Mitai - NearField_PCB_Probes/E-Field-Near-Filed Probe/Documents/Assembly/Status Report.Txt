@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Schematic Document [NearField_E_Probe.SchDoc]
+   Generated File[Bill of Materials-NearField_E_Probe.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 12:04:51 On 20/10/2023
