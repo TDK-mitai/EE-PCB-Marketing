@@ -1,3 +1,2 @@
-Record=TopLevelDocument|FileName=Main.SchDoc|SheetNumber=1
-Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=Conv1|SchDesignator=Conv1|FileName=DC_buck_converter_5V_OP.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=DC_buck_converter_5V_OP.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=Conv2|SchDesignator=Conv2|FileName=DC_buck_converter_5V_OP.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=DC_buck_converter_5V_OP.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=TopLevelDocument|FileName=DC_buck_converter_5V_OP.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=DC_buck_converter_5V_OP.SchDoc|FileName=Main.SchDoc|SheetNumber=2

@@ -1,0 +1,14 @@
+Altium Designer Pick and Place Locations
+D:\Repositories\EE-PCB-Marketing\Mitai - NearField_PCB_Probes\H-Field-Near-Field-Probe\Near H-Filed-Probe\Documents\Pick Place\Pick Place for Near-H-Field-Probe.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       27/10/23
+Time:       16:38
+Revision:   741c7105ad7be76f5c22ec8b0d6a10d96dafb79d
+Variant:    No variations
+Units used: mm
+
+Designator Comment        Layer    Footprint                  Center-X(mm) Center-Y(mm) Rotation Description                                                         
+J2         CON-SMA-EDGE-S TopLayer RFSOLUTIONS_CON-SMA-EDGE-S 143.3830     83.8200      180      "SMA Connector Jack, Female Socket - Board Edge, End Launch Solder" 
