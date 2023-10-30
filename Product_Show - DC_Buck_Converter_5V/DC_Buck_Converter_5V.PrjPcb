@@ -116,6 +116,10 @@ DItemRevisionGUID=
 GenerateClassCluster=1
 DocumentUniqueId=CNBWABKZ
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for DC_Buck_Converter_5V\Design Rule Check - DC_Buck_5V.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
