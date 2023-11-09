@@ -1,32 +1,12 @@
-Project Outputs Generation Report
----------------------------------
-Start Output Generation At 12:18:47 On 20/10/2023
-
-Output: ODB++ Files
-Type  : ODB
-From  : Variant [[No Variations]] of PCB Document [Near-E-Field-Probe.PcbDoc]
-   Generated File[profile]
-   Generated File[stephdr]
-   Generated File[features]
-   Generated File[features]
-   Generated File[features]
-   Generated File[features]
-   Generated File[features]
-   Generated File[features]
-   Generated File[features]
-   Generated File[tools]
-   Generated File[features]
-   Generated File[features]
-   Generated File[features]
-   Generated File[features]
-   Generated File[components]
-   Generated File[data]
-   Generated File[netlist]
-   Generated File[matrix]
-   Generated File[Near-E-Field-Probe.REP]
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Near-E-Field-Probe.PcbDoc]
+   Generated File[Near-E-Field-Probe.TXT]
+   Generated File[Near-E-Field-Probe.LDP]
+   Generated File[Near-E-Field-Probe.DRR]
 
 
-Files Generated   : 19
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 12:18:50 On 20/10/2023
+Finished Output Generation At 15:10:37 On 09/11/2023

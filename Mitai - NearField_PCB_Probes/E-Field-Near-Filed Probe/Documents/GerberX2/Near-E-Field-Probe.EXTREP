@@ -1,9 +1,20 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: Near-E-Field-Probe.GBR   20/10/2023  12:06:18
+Gerber File Extension Report For: Near-E-Field-Probe.GBR   09/11/2023  15:10:35
 ------------------------------------------------------------------------------------------
 
 
 ------------------------------------------------------------------------------------------
 Layer Extension     Layer Description                      
 ------------------------------------------------------------------------------------------
+.GTL                Top Layer                               
+.GBL                Bottom Layer                            
+.GTO                Top Overlay                             
+.GBO                Bottom Overlay                          
+.GTS                Top Solder                              
+.GBS                Bottom Solder                           
+.GTP                Top Paste                               
+.GBP                Bottom Paste                            
+.GM                 Profile                                 
+.GBR1               Non-plated through-hole drill file      
+.GBR2               Plated through-hole drill file          
 ------------------------------------------------------------------------------------------

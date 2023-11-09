@@ -66,7 +66,7 @@ GenerateClassCluster=0
 DocumentUniqueId=YJSXXIEU
 
 [Document2]
-DocumentPath=Near H-Filed-Probe.OutJob
+DocumentPath=Near-H-Field-Probe - Mi-tai logo.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -83,6 +83,40 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document3]
+DocumentPath=Near H-Filed-Probe.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document4]
+DocumentPath=Near-H-Field-Probe - Mi-tai logo.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QOPJGHZL
+
+[Document5]
 DocumentPath=Near-H-Field-Probe.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -108,219 +142,419 @@ DocumentPath=Documents\ODB\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Documents\ODB\odb\steps\pcb\eda\data
+DocumentPath=Documents_Mi-tai\ODB\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for Near H-Filed-Probe\Design Rule Check - Near-H-Field-Probe.html
+DocumentPath=Documents\ODB\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Documents\ODB\odb\steps\pcb\layers\bottom_layer\features
+DocumentPath=Documents_Mi-tai\ODB\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Documents\ODB\odb\steps\pcb\layers\bottom_overlay\features
+DocumentPath=Project Outputs for Near H-Filed-Probe\Design Rule Check - Near-H-Field-Probe.html
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Documents\ODB\odb\steps\pcb\layers\bottom_paste\features
+DocumentPath=Documents\ODB\odb\steps\pcb\layers\bottom_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Documents\ODB\odb\steps\pcb\layers\bottom_solder\features
+DocumentPath=Documents\ODB\odb\steps\pcb\layers\bottom_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Documents\ODB\odb\steps\pcb\layers\comp_+_top\features
+DocumentPath=Documents\ODB\odb\steps\pcb\layers\bottom_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Documents\ODB\odb\steps\pcb\layers\dielectric_1\features
+DocumentPath=Documents\ODB\odb\steps\pcb\layers\bottom_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Documents\ODB\odb\steps\pcb\layers\dielectric_2\features
+DocumentPath=Documents\ODB\odb\steps\pcb\layers\comp_+_top\features
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Documents\ODB\odb\steps\pcb\layers\dielectric_3\features
+DocumentPath=Documents\ODB\odb\steps\pcb\layers\dielectric_1\features
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Documents\ODB\odb\steps\pcb\layers\drill_drawing_top-bottom\features
+DocumentPath=Documents\ODB\odb\steps\pcb\layers\dielectric_2\features
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Documents\ODB\odb\steps\pcb\layers\drill_guide_top-bottom\features
+DocumentPath=Documents\ODB\odb\steps\pcb\layers\dielectric_3\features
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Documents\ODB\odb\steps\pcb\layers\drill_non-plated_bottom-top\features
+DocumentPath=Documents\ODB\odb\steps\pcb\layers\drill_drawing_top-bottom\features
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Documents\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\features
+DocumentPath=Documents\ODB\odb\steps\pcb\layers\drill_guide_top-bottom\features
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Documents\ODB\odb\steps\pcb\layers\keep-out_layer\features
+DocumentPath=Documents\ODB\odb\steps\pcb\layers\drill_non-plated_bottom-top\features
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Documents\ODB\odb\steps\pcb\layers\layer_1\features
+DocumentPath=Documents\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\features
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Documents\ODB\odb\steps\pcb\layers\layer_2\features
+DocumentPath=Documents\ODB\odb\steps\pcb\layers\keep-out_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Documents\ODB\odb\steps\pcb\layers\mechanical_1\features
+DocumentPath=Documents\ODB\odb\steps\pcb\layers\layer_1\features
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Documents\ODB\odb\steps\pcb\layers\mechanical_5\features
+DocumentPath=Documents\ODB\odb\steps\pcb\layers\layer_2\features
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Documents\ODB\odb\steps\pcb\layers\mechanical_13\features
+DocumentPath=Documents\ODB\odb\steps\pcb\layers\mechanical_1\features
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Documents\ODB\odb\steps\pcb\layers\mechanical_14\features
+DocumentPath=Documents\ODB\odb\steps\pcb\layers\mechanical_5\features
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Documents\ODB\odb\steps\pcb\layers\mechanical_15\features
+DocumentPath=Documents\ODB\odb\steps\pcb\layers\mechanical_13\features
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Documents\ODB\odb\steps\pcb\layers\mechanical_16\features
+DocumentPath=Documents\ODB\odb\steps\pcb\layers\mechanical_14\features
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Documents\ODB\odb\steps\pcb\layers\route_tool_path\features
+DocumentPath=Documents\ODB\odb\steps\pcb\layers\mechanical_15\features
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Documents\ODB\odb\steps\pcb\layers\top_layer\features
+DocumentPath=Documents\ODB\odb\steps\pcb\layers\mechanical_16\features
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Documents\ODB\odb\steps\pcb\layers\top_overlay\features
+DocumentPath=Documents\ODB\odb\steps\pcb\layers\route_tool_path\features
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Documents\ODB\odb\steps\pcb\layers\top_paste\features
+DocumentPath=Documents\ODB\odb\steps\pcb\layers\top_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Documents\ODB\odb\steps\pcb\layers\top_solder\features
+DocumentPath=Documents\ODB\odb\steps\pcb\layers\top_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=Documents\ODB\odb\matrix\matrix
+DocumentPath=Documents\ODB\odb\steps\pcb\layers\top_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=Documents\NC Drill\Near-H-Field-Probe.DRR
+DocumentPath=Documents\ODB\odb\steps\pcb\layers\top_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=Documents\GerberX2\Near-H-Field-Probe.EXTREP
+DocumentPath=Documents_Mi-tai\ODB\odb\steps\pcb\layers\bottom_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument34]
-DocumentPath=Documents\GerberX2\Near-H-Field-Probe.G1
+DocumentPath=Documents_Mi-tai\ODB\odb\steps\pcb\layers\bottom_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument35]
-DocumentPath=Documents\GerberX2\Near-H-Field-Probe.G2
+DocumentPath=Documents_Mi-tai\ODB\odb\steps\pcb\layers\bottom_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument36]
-DocumentPath=Documents\GerberX2\Near-H-Field-Probe.GBL
+DocumentPath=Documents_Mi-tai\ODB\odb\steps\pcb\layers\bottom_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument37]
-DocumentPath=Documents\GerberX2\Near-H-Field-Probe.GBO
+DocumentPath=Documents_Mi-tai\ODB\odb\steps\pcb\layers\comp_+_top\features
 DItemRevisionGUID=
 
 [GeneratedDocument38]
-DocumentPath=Documents\GerberX2\Near-H-Field-Probe.GBP
+DocumentPath=Documents_Mi-tai\ODB\odb\steps\pcb\layers\dielectric_1\features
 DItemRevisionGUID=
 
 [GeneratedDocument39]
-DocumentPath=Documents\GerberX2\Near-H-Field-Probe.GBR1
+DocumentPath=Documents_Mi-tai\ODB\odb\steps\pcb\layers\dielectric_2\features
 DItemRevisionGUID=
 
 [GeneratedDocument40]
-DocumentPath=Documents\GerberX2\Near-H-Field-Probe.GBR2
+DocumentPath=Documents_Mi-tai\ODB\odb\steps\pcb\layers\dielectric_3\features
 DItemRevisionGUID=
 
 [GeneratedDocument41]
-DocumentPath=Documents\GerberX2\Near-H-Field-Probe.GBS
+DocumentPath=Documents_Mi-tai\ODB\odb\steps\pcb\layers\drill_drawing_top-bottom\features
 DItemRevisionGUID=
 
 [GeneratedDocument42]
-DocumentPath=Documents\GerberX2\Near-H-Field-Probe.GM
+DocumentPath=Documents_Mi-tai\ODB\odb\steps\pcb\layers\drill_guide_top-bottom\features
 DItemRevisionGUID=
 
 [GeneratedDocument43]
-DocumentPath=Documents\GerberX2\Near-H-Field-Probe.GTL
+DocumentPath=Documents_Mi-tai\ODB\odb\steps\pcb\layers\drill_non-plated_bottom-top\features
 DItemRevisionGUID=
 
 [GeneratedDocument44]
-DocumentPath=Documents\GerberX2\Near-H-Field-Probe.GTO
+DocumentPath=Documents_Mi-tai\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\features
 DItemRevisionGUID=
 
 [GeneratedDocument45]
-DocumentPath=Documents\GerberX2\Near-H-Field-Probe.GTP
+DocumentPath=Documents_Mi-tai\ODB\odb\steps\pcb\layers\keep-out_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument46]
-DocumentPath=Documents\GerberX2\Near-H-Field-Probe.GTS
+DocumentPath=Documents_Mi-tai\ODB\odb\steps\pcb\layers\layer_1\features
 DItemRevisionGUID=
 
 [GeneratedDocument47]
-DocumentPath=Documents\NC Drill\Near-H-Field-Probe.LDP
+DocumentPath=Documents_Mi-tai\ODB\odb\steps\pcb\layers\layer_2\features
 DItemRevisionGUID=
 
 [GeneratedDocument48]
-DocumentPath=Documents\GerberX2\Near-H-Field-Probe.REP
+DocumentPath=Documents_Mi-tai\ODB\odb\steps\pcb\layers\mechanical_1\features
 DItemRevisionGUID=
 
 [GeneratedDocument49]
-DocumentPath=Documents\ODB\Near-H-Field-Probe.REP
+DocumentPath=Documents_Mi-tai\ODB\odb\steps\pcb\layers\mechanical_5\features
 DItemRevisionGUID=
 
 [GeneratedDocument50]
-DocumentPath=Documents\NC Drill\Near-H-Field-Probe.TXT
+DocumentPath=Documents_Mi-tai\ODB\odb\steps\pcb\layers\mechanical_13\features
 DItemRevisionGUID=
 
 [GeneratedDocument51]
-DocumentPath=Documents\ODB\odb\steps\pcb\netlists\cadnet\netlist
+DocumentPath=Documents_Mi-tai\ODB\odb\steps\pcb\layers\mechanical_14\features
 DItemRevisionGUID=
 
 [GeneratedDocument52]
-DocumentPath=Documents\Pick Place\Pick Place for Near-H-Field-Probe.txt
+DocumentPath=Documents_Mi-tai\ODB\odb\steps\pcb\layers\mechanical_15\features
 DItemRevisionGUID=
 
 [GeneratedDocument53]
-DocumentPath=Documents\ODB\odb\steps\pcb\profile
+DocumentPath=Documents_Mi-tai\ODB\odb\steps\pcb\layers\mechanical_16\features
 DItemRevisionGUID=
 
 [GeneratedDocument54]
-DocumentPath=Documents\ODB\odb\steps\pcb\stephdr
+DocumentPath=Documents_Mi-tai\ODB\odb\steps\pcb\layers\route_tool_path\features
 DItemRevisionGUID=
 
 [GeneratedDocument55]
-DocumentPath=Documents\ODB\odb\steps\pcb\layers\drill_non-plated_bottom-top\tools
+DocumentPath=Documents_Mi-tai\ODB\odb\steps\pcb\layers\top_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument56]
+DocumentPath=Documents_Mi-tai\ODB\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=Documents_Mi-tai\ODB\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=Documents_Mi-tai\ODB\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument59]
+DocumentPath=Documents\ODB\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument60]
+DocumentPath=Documents_Mi-tai\ODB\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument61]
+DocumentPath=Documents_Mi-tai\NC Drill\Near-H-Field-Probe - Mi-tai logo.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument62]
+DocumentPath=Documents_Mi-tai\GerberX2\Near-H-Field-Probe - Mi-tai logo.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument63]
+DocumentPath=Documents_Mi-tai\GerberX2\Near-H-Field-Probe - Mi-tai logo.G1
+DItemRevisionGUID=
+
+[GeneratedDocument64]
+DocumentPath=Documents_Mi-tai\GerberX2\Near-H-Field-Probe - Mi-tai logo.G2
+DItemRevisionGUID=
+
+[GeneratedDocument65]
+DocumentPath=Documents_Mi-tai\GerberX2\Near-H-Field-Probe - Mi-tai logo.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument66]
+DocumentPath=Documents_Mi-tai\GerberX2\Near-H-Field-Probe - Mi-tai logo.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument67]
+DocumentPath=Documents_Mi-tai\GerberX2\Near-H-Field-Probe - Mi-tai logo.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument68]
+DocumentPath=Documents_Mi-tai\GerberX2\Near-H-Field-Probe - Mi-tai logo.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument69]
+DocumentPath=Documents_Mi-tai\GerberX2\Near-H-Field-Probe - Mi-tai logo.GM
+DItemRevisionGUID=
+
+[GeneratedDocument70]
+DocumentPath=Documents_Mi-tai\GerberX2\Near-H-Field-Probe - Mi-tai logo.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument71]
+DocumentPath=Documents_Mi-tai\GerberX2\Near-H-Field-Probe - Mi-tai logo.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument72]
+DocumentPath=Documents_Mi-tai\GerberX2\Near-H-Field-Probe - Mi-tai logo.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument73]
+DocumentPath=Documents_Mi-tai\GerberX2\Near-H-Field-Probe - Mi-tai logo.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument74]
+DocumentPath=Documents_Mi-tai\NC Drill\Near-H-Field-Probe - Mi-tai logo.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument75]
+DocumentPath=Documents_Mi-tai\GerberX2\Near-H-Field-Probe - Mi-tai logo.REP
+DItemRevisionGUID=
+
+[GeneratedDocument76]
+DocumentPath=Documents_Mi-tai\ODB\Near-H-Field-Probe - Mi-tai logo.REP
+DItemRevisionGUID=
+
+[GeneratedDocument77]
+DocumentPath=Documents_Mi-tai\NC Drill\Near-H-Field-Probe - Mi-tai logo.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument78]
+DocumentPath=Documents\NC Drill\Near-H-Field-Probe.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument79]
+DocumentPath=Documents\GerberX2\Near-H-Field-Probe.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument80]
+DocumentPath=Documents\GerberX2\Near-H-Field-Probe.G1
+DItemRevisionGUID=
+
+[GeneratedDocument81]
+DocumentPath=Documents\GerberX2\Near-H-Field-Probe.G2
+DItemRevisionGUID=
+
+[GeneratedDocument82]
+DocumentPath=Documents\GerberX2\Near-H-Field-Probe.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument83]
+DocumentPath=Documents\GerberX2\Near-H-Field-Probe.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument84]
+DocumentPath=Documents\GerberX2\Near-H-Field-Probe.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument85]
+DocumentPath=Documents\GerberX2\Near-H-Field-Probe.GBR1
+DItemRevisionGUID=
+
+[GeneratedDocument86]
+DocumentPath=Documents\GerberX2\Near-H-Field-Probe.GBR2
+DItemRevisionGUID=
+
+[GeneratedDocument87]
+DocumentPath=Documents\GerberX2\Near-H-Field-Probe.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument88]
+DocumentPath=Documents\GerberX2\Near-H-Field-Probe.GM
+DItemRevisionGUID=
+
+[GeneratedDocument89]
+DocumentPath=Documents\GerberX2\Near-H-Field-Probe.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument90]
+DocumentPath=Documents\GerberX2\Near-H-Field-Probe.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument91]
+DocumentPath=Documents\GerberX2\Near-H-Field-Probe.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument92]
+DocumentPath=Documents\GerberX2\Near-H-Field-Probe.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument93]
+DocumentPath=Documents\NC Drill\Near-H-Field-Probe.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument94]
+DocumentPath=Documents\GerberX2\Near-H-Field-Probe.REP
+DItemRevisionGUID=
+
+[GeneratedDocument95]
+DocumentPath=Documents\ODB\Near-H-Field-Probe.REP
+DItemRevisionGUID=
+
+[GeneratedDocument96]
+DocumentPath=Documents\NC Drill\Near-H-Field-Probe.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument97]
+DocumentPath=Documents\ODB\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument98]
+DocumentPath=Documents_Mi-tai\ODB\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument99]
+DocumentPath=Documents\ODB\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument100]
+DocumentPath=Documents_Mi-tai\ODB\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument101]
+DocumentPath=Documents\ODB\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument102]
+DocumentPath=Documents_Mi-tai\ODB\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument103]
+DocumentPath=Documents\ODB\odb\steps\pcb\layers\drill_non-plated_bottom-top\tools
+DItemRevisionGUID=
+
+[GeneratedDocument104]
 DocumentPath=Documents\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\tools
+DItemRevisionGUID=
+
+[GeneratedDocument105]
+DocumentPath=Documents_Mi-tai\ODB\odb\steps\pcb\layers\drill_non-plated_bottom-top\tools
+DItemRevisionGUID=
+
+[GeneratedDocument106]
+DocumentPath=Documents_Mi-tai\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\tools
 DItemRevisionGUID=
 
 [Configuration1]
@@ -911,36 +1145,6 @@ OutputName12=Web Review Data
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
-OutputType13=Ansoft Neutral
-OutputName13=Ansoft Neutral (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=HyperLynx
-OutputName14=HyperLynx (AutoPCB)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=Orcad v7 Capture Design
-OutputName15=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=P-CAD ASCII
-OutputName16=P-CAD ASCII (AutoPCB)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=P-CAD V16 Schematic Design
-OutputName17=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
-OutputType18=SiSoft
-OutputName18=SiSoft (AutoPCB)
-OutputDocumentPath18=
-OutputVariantName18=
-OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs

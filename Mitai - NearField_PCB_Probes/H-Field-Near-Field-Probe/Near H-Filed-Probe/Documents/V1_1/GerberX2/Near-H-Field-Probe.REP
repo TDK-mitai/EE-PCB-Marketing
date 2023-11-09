@@ -18,32 +18,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Layer 1
-      File : Near-H-Field-Probe.G1
-
-    Adding Layer      : Layer 1
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D13
-*************************************************************
-
-*************************************************************
-Generating : Layer 2
-      File : Near-H-Field-Probe.G2
-
-    Adding Layer      : Layer 2
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D13
-*************************************************************
-
-*************************************************************
 Generating : Bottom Layer
       File : Near-H-Field-Probe.GBL
 
