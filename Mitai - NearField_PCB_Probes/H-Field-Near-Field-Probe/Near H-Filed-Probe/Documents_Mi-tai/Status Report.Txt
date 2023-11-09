@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Near-H-Field-Probe - Mi-tai logo.PcbDoc]
+   Generated File[Near-H-Field-Probe - Mi-tai logo.TXT]
+   Generated File[Near-H-Field-Probe - Mi-tai logo.LDP]
+   Generated File[Near-H-Field-Probe - Mi-tai logo.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 12:32:38 On 09/11/2023
