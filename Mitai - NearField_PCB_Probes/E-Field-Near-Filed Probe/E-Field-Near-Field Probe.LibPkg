@@ -16,14 +16,14 @@ AllowPortNetNames=0
 AllowSheetEntryNetNames=1
 AppendSheetNumberToLocalNets=0
 NetlistSinglePinNets=0
-DefaultConfiguration=Sources
+DefaultConfiguration=Default - All Constraints
 UserID=0xFFFFFFFF
 DefaultPcbProtel=1
 DefaultPcbPcad=0
 ReorderDocumentsOnCompile=1
 NameNetsHierarchically=0
 PowerPortNamesTakePriority=0
-AutoSheetNumbering=1
+AutoSheetNumbering=0
 AutoCrossReferences=1
 NewIndexingOfSheetSymbols=1
 PushECOToAnnotationFile=1
@@ -37,7 +37,7 @@ OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
-CrossRefSheetStyle=1
+CrossRefSheetStyle=2
 CrossRefLocationStyle=1
 CrossRefPorts=3
 CrossRefCrossSheets=1
@@ -49,7 +49,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=NearField_E_Probe.SchDoc
+DocumentPath=E-Field-Near-Field Probe1\E-Field-Near-Field Probe.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -63,10 +63,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=XHLVEZBT
+DocumentUniqueId=
 
 [Document2]
-DocumentPath=Near-E-Field-Probe - Mi-tai logo.PcbDoc
+DocumentPath=E-Field-Near-Field Probe1\Near-E-Field-Probe - Mi-tai logo.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -80,374 +80,16 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=OLIZEUYG
-
-[Document3]
-DocumentPath=Near-E-Field-Probe.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=MIMSPXMH
-
-[Document4]
-DocumentPath=E-Field-Near-Field Probe - Mi-tai logo.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document5]
-DocumentPath=E-Field-Near-Field Probe.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document6]
-DocumentPath=E-Field-Near-Field Probe.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[GeneratedDocument1]
-DocumentPath=Documents\Assembly\BOM\Bill of Materials-Near-E-Field-Probe - Mi-tai logo.csv
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Documents\ODB\odb\steps\pcb\layers\comp_+_top\components
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Documents_Mi-tai\ODB\odb\steps\pcb\layers\comp_+_top\components
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Documents\ODB\odb\steps\pcb\eda\data
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Documents_Mi-tai\ODB\odb\steps\pcb\eda\data
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for E-Field-Near-Field Probe\Design Rule Check - Near-E-Field-Probe - Mi-tai logo.html
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Documents\ODB\odb\steps\pcb\layers\bottom_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Documents\ODB\odb\steps\pcb\layers\bottom_overlay\features
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Documents\ODB\odb\steps\pcb\layers\bottom_paste\features
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Documents\ODB\odb\steps\pcb\layers\bottom_solder\features
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Documents\ODB\odb\steps\pcb\layers\comp_+_top\features
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Documents\ODB\odb\steps\pcb\layers\dielectric_1\features
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Documents\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\features
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Documents\ODB\odb\steps\pcb\layers\top_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Documents\ODB\odb\steps\pcb\layers\top_overlay\features
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Documents\ODB\odb\steps\pcb\layers\top_paste\features
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Documents\ODB\odb\steps\pcb\layers\top_solder\features
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Documents_Mi-tai\ODB\odb\steps\pcb\layers\bottom_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Documents_Mi-tai\ODB\odb\steps\pcb\layers\bottom_overlay\features
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Documents_Mi-tai\ODB\odb\steps\pcb\layers\bottom_paste\features
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Documents_Mi-tai\ODB\odb\steps\pcb\layers\bottom_solder\features
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Documents_Mi-tai\ODB\odb\steps\pcb\layers\comp_+_top\features
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Documents_Mi-tai\ODB\odb\steps\pcb\layers\dielectric_1\features
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Documents_Mi-tai\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\features
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Documents_Mi-tai\ODB\odb\steps\pcb\layers\top_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=Documents_Mi-tai\ODB\odb\steps\pcb\layers\top_overlay\features
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Documents_Mi-tai\ODB\odb\steps\pcb\layers\top_paste\features
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=Documents_Mi-tai\ODB\odb\steps\pcb\layers\top_solder\features
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=Documents\ODB\odb\matrix\matrix
-DItemRevisionGUID=
-
-[GeneratedDocument30]
-DocumentPath=Documents_Mi-tai\ODB\odb\matrix\matrix
-DItemRevisionGUID=
-
-[GeneratedDocument31]
-DocumentPath=Documents_Mi-tai\NC Drill\Near-E-Field-Probe - Mi-tai logo.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument32]
-DocumentPath=Documents_Mi-tai\GerberX2\Near-E-Field-Probe - Mi-tai logo.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument33]
-DocumentPath=Documents_Mi-tai\GerberX2\Near-E-Field-Probe - Mi-tai logo.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument34]
-DocumentPath=Documents_Mi-tai\GerberX2\Near-E-Field-Probe - Mi-tai logo.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument35]
-DocumentPath=Documents_Mi-tai\GerberX2\Near-E-Field-Probe - Mi-tai logo.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument36]
-DocumentPath=Documents_Mi-tai\GerberX2\Near-E-Field-Probe - Mi-tai logo.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument37]
-DocumentPath=Documents_Mi-tai\GerberX2\Near-E-Field-Probe - Mi-tai logo.GM
-DItemRevisionGUID=
-
-[GeneratedDocument38]
-DocumentPath=Documents_Mi-tai\GerberX2\Near-E-Field-Probe - Mi-tai logo.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument39]
-DocumentPath=Documents_Mi-tai\GerberX2\Near-E-Field-Probe - Mi-tai logo.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument40]
-DocumentPath=Documents_Mi-tai\GerberX2\Near-E-Field-Probe - Mi-tai logo.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument41]
-DocumentPath=Documents_Mi-tai\GerberX2\Near-E-Field-Probe - Mi-tai logo.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument42]
-DocumentPath=Documents_Mi-tai\NC Drill\Near-E-Field-Probe - Mi-tai logo.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument43]
-DocumentPath=Documents_Mi-tai\GerberX2\Near-E-Field-Probe - Mi-tai logo.REP
-DItemRevisionGUID=
-
-[GeneratedDocument44]
-DocumentPath=Documents_Mi-tai\ODB\Near-E-Field-Probe - Mi-tai logo.REP
-DItemRevisionGUID=
-
-[GeneratedDocument45]
-DocumentPath=Documents_Mi-tai\NC Drill\Near-E-Field-Probe - Mi-tai logo.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument46]
-DocumentPath=Documents\NC Drill\Near-E-Field-Probe.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument47]
-DocumentPath=Documents\GerberX2\Near-E-Field-Probe.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument48]
-DocumentPath=Documents\GerberX2\Near-E-Field-Probe.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument49]
-DocumentPath=Documents\GerberX2\Near-E-Field-Probe.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument50]
-DocumentPath=Documents\GerberX2\Near-E-Field-Probe.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument51]
-DocumentPath=Documents\GerberX2\Near-E-Field-Probe.GBR1
-DItemRevisionGUID=
-
-[GeneratedDocument52]
-DocumentPath=Documents\GerberX2\Near-E-Field-Probe.GBR2
-DItemRevisionGUID=
-
-[GeneratedDocument53]
-DocumentPath=Documents\GerberX2\Near-E-Field-Probe.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument54]
-DocumentPath=Documents\GerberX2\Near-E-Field-Probe.GM
-DItemRevisionGUID=
-
-[GeneratedDocument55]
-DocumentPath=Documents\GerberX2\Near-E-Field-Probe.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument56]
-DocumentPath=Documents\GerberX2\Near-E-Field-Probe.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument57]
-DocumentPath=Documents\GerberX2\Near-E-Field-Probe.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument58]
-DocumentPath=Documents\GerberX2\Near-E-Field-Probe.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument59]
-DocumentPath=Documents\NC Drill\Near-E-Field-Probe.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument60]
-DocumentPath=Documents\GerberX2\Near-E-Field-Probe.REP
-DItemRevisionGUID=
-
-[GeneratedDocument61]
-DocumentPath=Documents\ODB\Near-E-Field-Probe.REP
-DItemRevisionGUID=
-
-[GeneratedDocument62]
-DocumentPath=Documents\NC Drill\Near-E-Field-Probe.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument63]
-DocumentPath=Documents\ODB\odb\steps\pcb\netlists\cadnet\netlist
-DItemRevisionGUID=
-
-[GeneratedDocument64]
-DocumentPath=Documents_Mi-tai\ODB\odb\steps\pcb\netlists\cadnet\netlist
-DItemRevisionGUID=
-
-[GeneratedDocument65]
-DocumentPath=Documents\Assembly\Pick Place\Pick Place for Near-E-Field-Probe - Mi-tai logo.txt
-DItemRevisionGUID=
-
-[GeneratedDocument66]
-DocumentPath=Documents\ODB\odb\steps\pcb\profile
-DItemRevisionGUID=
-
-[GeneratedDocument67]
-DocumentPath=Documents_Mi-tai\ODB\odb\steps\pcb\profile
-DItemRevisionGUID=
-
-[GeneratedDocument68]
-DocumentPath=Documents\ODB\odb\steps\pcb\stephdr
-DItemRevisionGUID=
-
-[GeneratedDocument69]
-DocumentPath=Documents_Mi-tai\ODB\odb\steps\pcb\stephdr
-DItemRevisionGUID=
-
-[GeneratedDocument70]
-DocumentPath=Documents\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\tools
-DItemRevisionGUID=
-
-[GeneratedDocument71]
-DocumentPath=Documents_Mi-tai\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\tools
-DItemRevisionGUID=
-
-[Configuration1]
-Name=Sources
-ParameterCount=0
-ConstraintFileCount=0
-ReleaseItemId=
-Variant=[No Variations]
-OutputJobsCount=0
-ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
-ConfigurationType=Source
+DocumentUniqueId=QOTEMFDK
+
+[SearchPath1]
+Path=D:\Repositories\EE-PCB-Marketing\Mitai - NearField_PCB_Probes\E-Field-Near-Filed Probe\E-Field-Near-Field Probe1\*.*
+IncludeSubFolders=1
 
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=OrCADPS_22.1
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -558,7 +200,7 @@ OutputDefault21=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=OrCADPS_22.1
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AdvSimNetlist
 OutputName1=Mixed Sim
@@ -569,7 +211,7 @@ OutputDefault1=0
 [OutputGroup3]
 Name=Documentation Outputs
 Description=
-TargetPrinter=OrCADPS_22.1
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Composite
 OutputName1=Composite Drawing
@@ -613,53 +255,53 @@ OutputDocumentPath7=
 OutputVariantName7=[No Variations]
 OutputDefault7=0
 PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType8=PCBLIB Print
-OutputName8=PCBLIB Prints
+OutputType8=PCBDrawing
+OutputName8=Draftsman
 OutputDocumentPath8=
 OutputVariantName8=[No Variations]
 OutputDefault8=0
 PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType9=PDF3D
-OutputName9=PDF3D
+OutputType9=PCBLIB Print
+OutputName9=PCBLIB Prints
 OutputDocumentPath9=
 OutputVariantName9=[No Variations]
 OutputDefault9=0
 PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType10=PDF3D MBA
-OutputName10=PDF3D MBA
+OutputType10=PDF3D
+OutputName10=PDF3D
 OutputDocumentPath10=
-OutputVariantName10=
+OutputVariantName10=[No Variations]
 OutputDefault10=0
 PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType11=Report Print
-OutputName11=Report Prints
+OutputType11=PDF3D MBA
+OutputName11=PDF3D MBA
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
 PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType12=Schematic Print
-OutputName12=Schematic Prints
+OutputType12=Report Print
+OutputName12=Report Prints
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
 PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType13=SimView Print
-OutputName13=SimView Prints
+OutputType13=Schematic Print
+OutputName13=Schematic Prints
 OutputDocumentPath13=
 OutputVariantName13=
 OutputDefault13=0
 PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType14=PCBDrawing
-OutputName14=Draftsman
+OutputType14=SimView Print
+OutputName14=SimView Prints
 OutputDocumentPath14=
-OutputVariantName14=[No Variations]
+OutputVariantName14=
 OutputDefault14=0
 PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=OrCADPS_22.1
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -681,7 +323,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=OrCADPS_22.1
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Board Stack Report
 OutputName1=Report Board Stack
@@ -753,7 +395,7 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=OrCADPS_22.1
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -808,7 +450,7 @@ OutputDefault9=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=OrCADPS_22.1
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -916,7 +558,7 @@ PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=OrCADPS_22.1
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_Violations
 OutputName1=BOM Checks Report
@@ -960,7 +602,7 @@ OutputDefault7=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=OrCADPS_22.1
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -1026,7 +668,7 @@ OutputDefault12=0
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=OrCADPS_22.1
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
@@ -1426,7 +1068,4 @@ ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=0|Use
 ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
 ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|UseName=0|InclAllRules=0
 ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
-
-[SmartPDF]
-PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 

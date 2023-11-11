@@ -15,9 +15,9 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=E-Field-Near-Field Probe.OutJob
+Name=
 Description=
-TargetOutputMedium=ODB++
+TargetOutputMedium=Manufacturing
 VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
@@ -53,7 +53,7 @@ OutputEnabled1_OutputMedium5=0
 OutputEnabled1_OutputMedium6=0
 OutputEnabled1_OutputMedium7=0
 OutputDefault1=0
-PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=2.75|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=2.80|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 Configuration1_Name1=OutputConfigurationParameter1
 Configuration1_Item1=Record=Pcb3DPrintView|ResX=150|ResY=150|ViewX=39533275|ViewY=5499765|LookAtX=42049928|LookAtY=34766268|LookAtZ=0|UpX=0|UpY=1|UpZ=0|FOV=0|QuatX=0|QuatY=0|QuatZ=0|QuatW=1|Zoom=3.03288811766796E-5|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=False|ViewFromTop=True|ScreenWidth=0|ScreenHeight=0|ImageOutputType=1|ViewConfig= |DocumentPath=D:\Repositories\EE-PCB-Marketing\Mitai - NearField_PCB_Probes\E-Field-Near-Filed Probe\Near-E-Field-Probe.PcbDoc
 OutputType2=PCB 3D Print
@@ -70,7 +70,7 @@ OutputEnabled2_OutputMedium5=0
 OutputEnabled2_OutputMedium6=0
 OutputEnabled2_OutputMedium7=0
 OutputDefault2=0
-PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=2.75|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=2.80|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 Configuration2_Name1=OutputConfigurationParameter1
 Configuration2_Item1=Record=Pcb3DPrintView|ResX=150|ResY=150|ViewX=39533275|ViewY=5499765|LookAtX=42049928|LookAtY=34766268|LookAtZ=0|UpX=0|UpY=1|UpZ=0|FOV=0|QuatX=0|QuatY=0|QuatZ=0|QuatW=1|Zoom=3.03288811766796E-5|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=False|ViewFromTop=False|ScreenWidth=0|ScreenHeight=0|ImageOutputType=1|ViewConfig= |DocumentPath=D:\Repositories\EE-PCB-Marketing\Mitai - NearField_PCB_Probes\E-Field-Near-Filed Probe\Near-E-Field-Probe.PcbDoc
 OutputType3=Assembly
@@ -94,7 +94,7 @@ OutputName4=ODB++ Files
 OutputCategory4=Fabrication
 OutputDocumentPath4=Near-E-Field-Probe.PcbDoc
 OutputVariantName4=
-OutputEnabled4=1
+OutputEnabled4=0
 OutputEnabled4_OutputMedium1=0
 OutputEnabled4_OutputMedium2=0
 OutputEnabled4_OutputMedium3=1
@@ -110,7 +110,7 @@ OutputName5=Gerber X2 Files
 OutputCategory5=Fabrication
 OutputDocumentPath5=Near-E-Field-Probe.PcbDoc
 OutputVariantName5=
-OutputEnabled5=0
+OutputEnabled5=1
 OutputEnabled5_OutputMedium1=0
 OutputEnabled5_OutputMedium2=0
 OutputEnabled5_OutputMedium3=0
@@ -218,7 +218,7 @@ OutputName11=NC Drill Files
 OutputCategory11=Fabrication
 OutputDocumentPath11=Near-E-Field-Probe.PcbDoc
 OutputVariantName11=
-OutputEnabled11=0
+OutputEnabled11=1
 OutputEnabled11_OutputMedium1=0
 OutputEnabled11_OutputMedium2=0
 OutputEnabled11_OutputMedium3=0
@@ -320,7 +320,7 @@ OutputFileName5=
 OutputFileNameMulti5=
 UseOutputNameForMulti5=1
 OutputFileNameSpecial5=
-OpenOutput5=1
+OpenOutput5=0
 OutputFilePath6=D:\Repositories\EE-PCB-Marketing\Mitai - NearField_PCB_Probes\E-Field-Near-Filed Probe\Documents\E-Field-Near-Field Probe.PDF
 ReleaseManaged6=0
 OutputBasePath6=Documents\
@@ -378,7 +378,7 @@ EnableReload3=0
 RelativeOutputPath4=
 OpenOutputs4=1
 RelativeOutputPath5=D:\Repositories\EE-PCB-Marketing\Mitai - NearField_PCB_Probes\E-Field-Near-Filed Probe\Documents\
-OpenOutputs5=1
+OpenOutputs5=0
 AddToProject5=1
 TimestampFolder5=0
 UseOutputName5=0
