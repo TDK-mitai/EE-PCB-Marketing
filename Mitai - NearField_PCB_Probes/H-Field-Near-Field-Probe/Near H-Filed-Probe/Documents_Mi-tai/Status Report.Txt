@@ -1,12 +1,10 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : PCB Document [Near-H-Field-Probe - Mi-tai logo.PcbDoc]
-   Generated File[Near-H-Field-Probe - Mi-tai logo.TXT]
-   Generated File[Near-H-Field-Probe - Mi-tai logo.LDP]
-   Generated File[Near-H-Field-Probe - Mi-tai logo.DRR]
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of PCB Document [Near-H-Field-Probe - Mi-tai logo.PcbDoc]
+   Generated File[Bill of Materials-Near-H-Field-Probe - Mi-tai logo.csv]
 
 
-Files Generated   : 3
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 12:32:38 On 09/11/2023
+Finished Output Generation At 18:58:23 On 11/11/2023

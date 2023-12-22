@@ -4,9 +4,9 @@ D:\Repositories\EE-PCB-Marketing\Mitai - NearField_PCB_Probes\H-Field-Near-Field
 ========================================================================================================================
 File Design Information:
 
-Date:       08/11/23
-Time:       16:25
-Revision:   67fcf7f7ed7f585cc568359d3e26c67c61065e6d
+Date:       11/11/23
+Time:       18:52
+Revision:   133f9ad8a6a8ee993c76bdf7cbcabdd62206c90b
 Variant:    No variations
 Units used: mm
 

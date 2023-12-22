@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: Near-H-Field-Probe.PcbDoc   08/11/2023  16:24:54
+NCDrill File Report For: Near-H-Field-Probe.PcbDoc   11/11/2023  19:08:25
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,9 +7,9 @@ ASCII RoundHoles File : Near-H-Field-Probe.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.3mm (12mil)                                             Round             507       PTH        611.44mm (24.07inch)
+T1      0.3mm (12mil)                                             Round             487       PTH        580.03mm (22.84inch)
 T2      7mm (276mil)                                              Round             1         NPTH       0.00mm (0.00inch)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              508
+Totals                                                                              488
 
 Total Processing Time (hh:mm:ss) : 00:00:00

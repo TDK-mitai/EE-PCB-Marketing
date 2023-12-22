@@ -1,12 +1,43 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : PCB Document [DC_Buck_5V.PcbDoc]
-   Generated File[DC_Buck_5V.TXT]
-   Generated File[DC_Buck_5V.LDP]
-   Generated File[DC_Buck_5V.DRR]
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 10:34:04 On 21/12/2023
+
+Output: ODB++ Files
+Type  : ODB
+From  : Variant [[No Variations]] of PCB Document [DC_Buck_5V.PcbDoc]
+   Generated File[profile]
+   Generated File[stephdr]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[tools]
+   Generated File[features]
+   Generated File[features]
+   Generated File[tools]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[components]
+   Generated File[data]
+   Generated File[netlist]
+   Generated File[matrix]
 
 
-Files Generated   : 3
+Files Generated   : 30
 Documents Printed : 0
 
-Finished Output Generation At 15:57:45 On 09/11/2023
+Finished Output Generation At 10:34:08 On 21/12/2023
